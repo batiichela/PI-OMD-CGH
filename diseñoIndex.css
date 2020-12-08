@@ -1,0 +1,47 @@
+* {
+    font-family: 'Sulphur Point', sans-serif;
+}
+
+body {
+    background: url(imagenes/Index.jpeg) no-repeat center center fixed;
+    background-size: cover;
+    color: whitesmoke;
+}
+
+header {
+    height: 40px;
+    widows: 100%;
+    padding: 10px;
+    text-align: center;
+    font-size: larger;
+    
+}
+
+.fa {
+    color: black;
+}
+
+hr {
+    border: 5px solid deeppink;
+    width: 500px;
+}
+
+header
+a {
+    margin: 0 10px;
+    color: deeppink;
+    text-decoration: none;
+    /*border: 1px solid black;
+    border-radius: 50%;*/
+}
+
+a:visited {
+    color: deeppink;
+}
+
+section {
+    text-align: center;
+    color: deeppink;
+    padding: 9%;
+    font-size: xx-large;
+}

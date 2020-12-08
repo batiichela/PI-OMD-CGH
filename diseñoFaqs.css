@@ -1,0 +1,36 @@
+* {
+    font-family: 'Sulphur Point', sans-serif;
+}
+
+body {
+    background: url(imagenes/masVendidos.jpeg) no-repeat center center fixed;
+    background-size: cover;
+}
+
+header {
+    height: 40px;
+    widows: 100%;
+    padding: 10px;
+    text-align: center;
+    font-size: larger;
+}
+
+header
+a {
+    margin: 0 10px;
+    color: deeppink;
+    text-decoration: none;
+}
+
+.fa {
+    color: black;
+}
+
+a:visited {
+    color: deeppink;
+}
+
+section {
+    padding: 6%;
+    color: deeppink;
+}

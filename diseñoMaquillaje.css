@@ -1,0 +1,48 @@
+* {
+    font-family: 'Sulphur Point', sans-serif;
+}
+
+body {
+    background: url(imagenes/categorias.jpeg) no-repeat center center fixed;
+    background-size: cover;
+}
+
+header {
+    height: 40px;
+    widows: 100%;
+    padding: 10px;
+    text-align: center;
+    font-size: larger;
+}
+
+header
+a {
+    margin: 0 10px;
+    color: deeppink;
+    text-decoration: none;
+}
+
+.fa {
+    color: black;
+}
+
+a:visited {
+    color: deeppink;
+}
+
+section {
+    text-align: center;
+    color: deeppink;
+    font-size: x-large;
+}
+
+hr {
+    border: 5px solid deeppink;
+    width: 600px;
+}
+
+.container {
+    display: flex;
+    flex-flow: column wrap;
+    align-items: center;
+}
